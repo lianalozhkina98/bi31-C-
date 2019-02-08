@@ -1,4 +1,1 @@
-# bi31-C-
-c++
-Пнаяс
-Лиана Ложкина
+DEVELOPED BY Liana LOzhkina 08.02.2019 23:02
